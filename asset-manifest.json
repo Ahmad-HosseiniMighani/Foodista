@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/food-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/food-website/static/js/main.da9d8b35.chunk.js",
+    "main.js.map": "/food-website/static/js/main.da9d8b35.chunk.js.map",
+    "runtime-main.js": "/food-website/static/js/runtime-main.f6c3694d.js",
+    "runtime-main.js.map": "/food-website/static/js/runtime-main.f6c3694d.js.map",
+    "static/js/2.f56476dc.chunk.js": "/food-website/static/js/2.f56476dc.chunk.js",
+    "static/js/2.f56476dc.chunk.js.map": "/food-website/static/js/2.f56476dc.chunk.js.map",
+    "index.html": "/food-website/index.html",
+    "precache-manifest.9f115f1ccdd227d31ac6d66b9f436756.js": "/food-website/precache-manifest.9f115f1ccdd227d31ac6d66b9f436756.js",
+    "service-worker.js": "/food-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/food-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f56476dc.chunk.js.LICENSE.txt": "/food-website/static/js/2.f56476dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/food-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c3694d.js",
+    "static/js/2.f56476dc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.da9d8b35.chunk.js"
+  ]
+}

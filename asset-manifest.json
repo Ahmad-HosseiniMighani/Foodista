@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/food-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/food-website/static/js/main.dec36b58.chunk.js",
-    "main.js.map": "/food-website/static/js/main.dec36b58.chunk.js.map",
+    "main.css": "/food-website/static/css/main.7aa51e87.chunk.css",
+    "main.js": "/food-website/static/js/main.fb49880d.chunk.js",
+    "main.js.map": "/food-website/static/js/main.fb49880d.chunk.js.map",
     "runtime-main.js": "/food-website/static/js/runtime-main.f6c3694d.js",
     "runtime-main.js.map": "/food-website/static/js/runtime-main.f6c3694d.js.map",
-    "static/js/2.f56476dc.chunk.js": "/food-website/static/js/2.f56476dc.chunk.js",
-    "static/js/2.f56476dc.chunk.js.map": "/food-website/static/js/2.f56476dc.chunk.js.map",
+    "static/css/2.eb5a6e6c.chunk.css": "/food-website/static/css/2.eb5a6e6c.chunk.css",
+    "static/js/2.5f3e3ec6.chunk.js": "/food-website/static/js/2.5f3e3ec6.chunk.js",
+    "static/js/2.5f3e3ec6.chunk.js.map": "/food-website/static/js/2.5f3e3ec6.chunk.js.map",
     "index.html": "/food-website/index.html",
-    "precache-manifest.5f39c9f5a8e2700eea7738a0eac06d79.js": "/food-website/precache-manifest.5f39c9f5a8e2700eea7738a0eac06d79.js",
+    "precache-manifest.ff51ab3fe6e82a01b8c188a2416c2dae.js": "/food-website/precache-manifest.ff51ab3fe6e82a01b8c188a2416c2dae.js",
     "service-worker.js": "/food-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/food-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f56476dc.chunk.js.LICENSE.txt": "/food-website/static/js/2.f56476dc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/food-website/static/media/logo.5d5d9eef.svg"
+    "static/css/2.eb5a6e6c.chunk.css.map": "/food-website/static/css/2.eb5a6e6c.chunk.css.map",
+    "static/css/main.7aa51e87.chunk.css.map": "/food-website/static/css/main.7aa51e87.chunk.css.map",
+    "static/js/2.5f3e3ec6.chunk.js.LICENSE.txt": "/food-website/static/js/2.5f3e3ec6.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/food-website/static/media/boxicons.aeaf4ee6.woff2",
+    "static/media/index.css": "/food-website/static/media/section1-bg.0e97dba3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f6c3694d.js",
-    "static/js/2.f56476dc.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dec36b58.chunk.js"
+    "static/css/2.eb5a6e6c.chunk.css",
+    "static/js/2.5f3e3ec6.chunk.js",
+    "static/css/main.7aa51e87.chunk.css",
+    "static/js/main.fb49880d.chunk.js"
   ]
 }

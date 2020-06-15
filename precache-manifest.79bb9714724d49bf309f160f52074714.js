@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f4e594a2c882681c2a9758c07dcc83e",
+    "revision": "babc571bd1f14f8f033c159d694dfb1d",
     "url": "/food-website/index.html"
   },
   {
-    "revision": "57ef9b010f2ffffd5dcd",
+    "revision": "909ffd7bd21fc5cecee5",
     "url": "/food-website/static/css/2.eb5a6e6c.chunk.css"
   },
   {
-    "revision": "c2cbdf8c52d0867c607b",
-    "url": "/food-website/static/css/main.d859bbf1.chunk.css"
+    "revision": "09288574e7fc35ccde4d",
+    "url": "/food-website/static/css/main.3360c562.chunk.css"
   },
   {
-    "revision": "57ef9b010f2ffffd5dcd",
-    "url": "/food-website/static/js/2.5f3e3ec6.chunk.js"
+    "revision": "909ffd7bd21fc5cecee5",
+    "url": "/food-website/static/js/2.bfad2f5f.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/food-website/static/js/2.5f3e3ec6.chunk.js.LICENSE.txt"
+    "url": "/food-website/static/js/2.bfad2f5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2cbdf8c52d0867c607b",
-    "url": "/food-website/static/js/main.7e188a30.chunk.js"
+    "revision": "09288574e7fc35ccde4d",
+    "url": "/food-website/static/js/main.41491a3e.chunk.js"
   },
   {
     "revision": "4afdd018f21b7618e600",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aeaf4ee6e2c712532f982c8a4dd68b16",
     "url": "/food-website/static/media/boxicons.aeaf4ee6.woff2"
+  },
+  {
+    "revision": "bf0c594dd3f2d2bc92fd6d53c2e47106",
+    "url": "/food-website/static/media/chicken-nuggets.bf0c594d.png"
   },
   {
     "revision": "0e97dba32e50d3c539ac66d806078909",

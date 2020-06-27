@@ -1,29 +1,36 @@
 {
   "files": {
-    "main.css": "/food-website/static/css/main.b1222d59.chunk.css",
-    "main.js": "/food-website/static/js/main.0904d74d.chunk.js",
-    "main.js.map": "/food-website/static/js/main.0904d74d.chunk.js.map",
+    "main.css": "/food-website/static/css/main.9fc9f67b.chunk.css",
+    "main.js": "/food-website/static/js/main.ad2c88d4.chunk.js",
+    "main.js.map": "/food-website/static/js/main.ad2c88d4.chunk.js.map",
     "runtime-main.js": "/food-website/static/js/runtime-main.71571275.js",
     "runtime-main.js.map": "/food-website/static/js/runtime-main.71571275.js.map",
     "static/css/2.eb5a6e6c.chunk.css": "/food-website/static/css/2.eb5a6e6c.chunk.css",
-    "static/js/2.7b9dc19a.chunk.js": "/food-website/static/js/2.7b9dc19a.chunk.js",
-    "static/js/2.7b9dc19a.chunk.js.map": "/food-website/static/js/2.7b9dc19a.chunk.js.map",
+    "static/js/2.d19fff6b.chunk.js": "/food-website/static/js/2.d19fff6b.chunk.js",
+    "static/js/2.d19fff6b.chunk.js.map": "/food-website/static/js/2.d19fff6b.chunk.js.map",
     "index.html": "/food-website/index.html",
-    "precache-manifest.7636ac6cab9eec7f538eaad09bfd1841.js": "/food-website/precache-manifest.7636ac6cab9eec7f538eaad09bfd1841.js",
+    "precache-manifest.6cfb0cd67de3a62c36bc3fe86072a8b1.js": "/food-website/precache-manifest.6cfb0cd67de3a62c36bc3fe86072a8b1.js",
     "service-worker.js": "/food-website/service-worker.js",
     "static/css/2.eb5a6e6c.chunk.css.map": "/food-website/static/css/2.eb5a6e6c.chunk.css.map",
-    "static/css/main.b1222d59.chunk.css.map": "/food-website/static/css/main.b1222d59.chunk.css.map",
-    "static/js/2.7b9dc19a.chunk.js.LICENSE.txt": "/food-website/static/js/2.7b9dc19a.chunk.js.LICENSE.txt",
+    "static/css/main.9fc9f67b.chunk.css.map": "/food-website/static/css/main.9fc9f67b.chunk.css.map",
+    "static/js/2.d19fff6b.chunk.js.LICENSE.txt": "/food-website/static/js/2.d19fff6b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/food-website/static/media/1.e7f1dfc9.png",
+    "static/media/2.png": "/food-website/static/media/2.94603100.png",
+    "static/media/3.png": "/food-website/static/media/3.7aaa6f16.png",
+    "static/media/4.png": "/food-website/static/media/4.38ea125b.png",
+    "static/media/5.png": "/food-website/static/media/5.0a18107c.png",
+    "static/media/6.png": "/food-website/static/media/6.17df1604.png",
     "static/media/boxicons.min.css": "/food-website/static/media/boxicons.aeaf4ee6.woff2",
-    "static/media/chicken-nuggets.png": "/food-website/static/media/chicken-nuggets.bf0c594d.png",
     "static/media/comment-pic.jpg": "/food-website/static/media/comment-pic.e9fb43a9.jpg",
-    "static/media/index.css": "/food-website/static/media/section7-bg.2baed17b.jpg"
+    "static/media/index.css": "/food-website/static/media/section7-bg.2baed17b.jpg",
+    "static/media/section1.png": "/food-website/static/media/section1.a9caf544.png",
+    "static/media/section2.png": "/food-website/static/media/section2.f8381b70.png"
   },
   "entrypoints": [
     "static/js/runtime-main.71571275.js",
     "static/css/2.eb5a6e6c.chunk.css",
-    "static/js/2.7b9dc19a.chunk.js",
-    "static/css/main.b1222d59.chunk.css",
-    "static/js/main.0904d74d.chunk.js"
+    "static/js/2.d19fff6b.chunk.js",
+    "static/css/main.9fc9f67b.chunk.css",
+    "static/js/main.ad2c88d4.chunk.js"
   ]
 }
